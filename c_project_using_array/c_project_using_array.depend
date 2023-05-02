@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1677101407 source:c:\users\misra\onedrive\amit embedded course\c_project\c_project_using_array\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"SDB.h"
+	"STD.h"
+
+1677101407 source:c:\users\misra\onedrive\amit embedded course\c_project\c_project_using_array\sdb.c
+	"SDB.h"
+	"STD.h"
+
+1677101407 c:\users\misra\onedrive\amit embedded course\c_project\c_project_using_array\sdb.h
+	"STD.h"
+
+1676675702 c:\users\misra\onedrive\amit embedded course\c_project\c_project_using_array\std.h
+
+1677101407 source:c:\users\misra\onedrive\amit embedded course\c_project\c_project_using_array\sdbapp.c
+	"SDB.h"
+	"STD.h"
+
